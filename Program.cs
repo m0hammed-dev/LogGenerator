@@ -2,7 +2,7 @@
 using System.Text;
 
 const string FilePath = "server_logs.txt";
-const int FileSizeInMB = 1024; // 1024 (1GB)
+const int FileSizeInMB = 500; // 1024 (1GB) 5000 (5GB)
 const int BufferSize = 65536; // 64KB Write Buffer
 
 
